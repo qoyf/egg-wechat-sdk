@@ -6,7 +6,8 @@
 // "appid": "wxd0944fd71221c19c",
 // "appsecret": "fe2574fdfce33dcaa5534d149b77c4a3",
 // "token": "31427543139566790626",
-
+import OAuth from "wechat-oauth";
+import WechatApiSdk from "wechat-api";
 import EggWechatApi from "./lib/WechatApi";
 import EggWechatOAuth from "./lib/WechatOauth";
 
