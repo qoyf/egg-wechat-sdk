@@ -1,6 +1,6 @@
 {
   "name": "egg-wechat-sdk",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "eggPlugin": {
     "name": "wechatSdk",
@@ -39,7 +39,8 @@
   "files": [
     "app.js",
     "lib",
-    "config"
+    "config",
+    "index.d.ts"
   ],
   "ci": {
     "version": "16, 18"
