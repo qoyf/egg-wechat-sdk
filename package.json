@@ -1,6 +1,6 @@
 {
-  "name": "egg-wechat-sdk",
-  "version": "1.0.3",
+  "name": "egg-wechat-sdk-x",
+  "version": "1.0.4",
   "description": "",
   "eggPlugin": {
     "name": "wechatSdk",

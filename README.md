@@ -29,7 +29,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-wechat-api --save
+$ npm i egg-wechat-api-x --save
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ $ npm i egg-wechat-api --save
 // {app_root}/config/plugin.js
 exports.wechatApi = {
   enable: true,
-  package: 'egg-wechat-api',
+  package: 'egg-wechat-api-x',
 };
 ```
 
