@@ -29,16 +29,16 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-wechat-api-x --save
+$ npm i egg-wechat-sdk-x --save
 ```
 
 ## Usage
 
 ```js
 // {app_root}/config/plugin.js
-exports.wechatApi = {
+exports.wechatSdk = {
   enable: true,
-  package: 'egg-wechat-api-x',
+  package: 'egg-wechat-sdk-x',
 };
 ```
 
@@ -46,7 +46,7 @@ exports.wechatApi = {
 
 ```js
 // {app_root}/config/config.default.js
-exports.wechatApi = {
+exports.wechatSdk = {
 };
 ```
 
